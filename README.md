@@ -124,6 +124,4 @@ A comprehensive role-based investment request management system that allows user
    - Review escalated requests
    - Approve or reject escalated requests
 
-## Screenshots
 
-_(Add screenshots of key interfaces)_
